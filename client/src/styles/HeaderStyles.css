@@ -1,0 +1,24 @@
+.navbar {
+    background-color: #bd672942 !important;
+  }
+  .navbar .navbar-brand {
+    color: #6f4e37 !important;
+    font-weight: bold;
+    font-size: 1.5rem;
+  }
+  
+  .nav-link {
+    font-size: 1.2rem;
+  }
+  
+  .navbar h6 {
+    margin-top: 0px;
+    margin-right: 20px;
+  }
+
+  .home {
+    background-color: #88973e;
+    background-image: -webkit-linear-gradient(65deg, #a4c4ca 50%, #dbe3e2 50%);
+    min-height: 1000px;
+    font-family: 'helvetica neue';
+  }
